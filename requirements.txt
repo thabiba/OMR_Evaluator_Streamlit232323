@@ -2,8 +2,7 @@ streamlit
 opencv-python
 numpy
 pandas
-Pillow
+pillow
 matplotlib
 scikit-learn
-sqlite3
 openai
