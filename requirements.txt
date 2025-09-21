@@ -6,4 +6,3 @@ pillow
 matplotlib
 scikit-learn
 openai
-sqlite3 
